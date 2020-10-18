@@ -6,3 +6,46 @@ img {
 h1 span {
 	color: #FDD835;
 }
+
+.component{
+    display: flex;
+}
+.recommandation{
+    display: flex;
+    justify-content: space-between;
+}
+
+.alignement {
+    width: 50%; 
+}
+
+.miseEnPageGlobal{
+    display: flex;
+}
+
+.miseEnPageGlobal h1{
+    text-align: center;
+}
+
+.blocDeGauche{
+    width: 33%;
+    min-width: 250px;
+    background-color: #FDD835;
+    
+}
+
+.blocDeGauche h1{
+    background-color: #37474F;
+}
+
+.global{
+    margin: 0px;
+}
+
+.contactContent{
+    margin: 30px;
+}
+
+.contactDiv{
+    margin-top: 10px;
+}
